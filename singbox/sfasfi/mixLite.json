@@ -181,7 +181,7 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
@@ -218,10 +218,9 @@
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | IT🇮🇹 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
@@ -400,7 +399,7 @@
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
@@ -437,10 +436,9 @@
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | IT🇮🇹 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
@@ -2508,7 +2506,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -3501,21 +3499,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "193.24.103.101",
-            "server_port": 51566,
-            "uuid": "6e41c15a-65ce-4a25-b112-9e60abe5676b",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | MD🇲🇩 | 0️⃣2️⃣",
             "type": "vless",
             "server": "45.140.146.223",
             "server_port": 443,
@@ -3545,7 +3529,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.21.11.130",
             "server_port": 443,
@@ -3577,7 +3561,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣4️⃣",
             "type": "vless",
             "server": "91.242.229.77",
             "server_port": 2052,
