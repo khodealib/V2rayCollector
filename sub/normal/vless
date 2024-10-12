@@ -101,7 +101,8 @@ vless://4c661a9c-8636-46de-aa56-cb2d1aaa1175@45.140.146.223:443?authority=&encry
 vless://6c86b258-6c0f-473f-9d8f-3e3b41492124@95.164.36.59:443?authority=&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=grpc&sni=sourceforge.net&type=grpc#رایگان | VLESS | @ShadowProxy66 | AT🇦🇹 | 0️⃣2️⃣
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?encryption=none&path=%2F&security=none&type=ws#رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣
 vless://99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?encryption=none&host=shuige2.ywfmu-qx.workers.dev&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣
-vless://2d722623-3740-4f73-9357-01ad1a25ce27@185.156.108.40:13784?encryption=none&headerType=none&security=none&type=tcp#رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣
+vless://6e41c15a-65ce-4a25-b112-9e60abe5676b@193.24.103.101:51566?encryption=none&headerType=http&host=bmw.com&security=none&type=tcp#رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣6️⃣
+vless://2d722623-3740-4f73-9357-01ad1a25ce27@185.156.108.40:13784?encryption=none&headerType=none&security=none&type=tcp#رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣7️⃣
 vless://41a17d90-61ad-4d1d-9d09-a83729795c4e@185.146.173.58:8080?encryption=none&host=lc59.lebasnoo.ir.&path=%2Fservernett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣
 vless://37018107-7bc4-461c-ba6f-e8a1c9e78975@185.146.173.58:8080?encryption=none&host=lc60.lebasnoo.ir.&path=%2Fservernett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣
 vless://3b1a5226-e5c2-471f-9b54-edd829f64d44@185.146.173.58:8080?encryption=none&host=lc60.lebasnoo.ir.&path=%2Fservernett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣3️⃣
