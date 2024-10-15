@@ -313,6 +313,7 @@
                 "رایگان | VMESS | @ShadowProxy66 | TR🇹🇷 | 0️⃣1️⃣",
                 "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣3️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣5️⃣",
@@ -338,6 +339,7 @@
                 "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
@@ -568,7 +570,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣"
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -611,7 +614,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣"
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1540,7 +1544,7 @@
         {
             "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "98.83.63.136",
+            "server": "3.89.76.106",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -4300,7 +4304,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4312,7 +4316,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4322,8 +4326,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "server_port": 443,
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4331,11 +4335,20 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v35.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v27.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4346,7 +4359,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4367,7 +4380,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4378,7 +4391,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4390,7 +4403,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v32.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4401,7 +4414,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4422,7 +4435,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v32.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4432,8 +4445,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "server_port": 80,
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4441,20 +4454,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v35.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4464,8 +4468,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "1d1be63a-1383-447c-89f3-a1040ba97676",
+            "server_port": 80,
+            "uuid": "4a9e4e0d-461d-42b0-8105-623220ab7582",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4473,20 +4477,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimitemergency.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v27.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4747,6 +4742,20 @@
         {
             "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
+            "server": "zula.ir",
+            "server_port": 8080,
+            "uuid": "47dad2b2-00c5-4263-a9d8-911c0739d0cd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
             "server": "FreakConfig.fastly80.hosting-ip.com",
             "server_port": 80,
             "uuid": "TELEGRAM-NUFiLTER",
@@ -4768,7 +4777,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2082,
@@ -4782,7 +4791,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 80,
@@ -4805,7 +4814,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 2095,
@@ -4828,7 +4837,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "172.67.156.27",
             "server_port": 443,
@@ -4860,7 +4869,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "172.66.44.135",
             "server_port": 80,
@@ -4879,38 +4888,6 @@
                     "Host": "v2ra1.ecrgpk.workers.dev"
                 },
                 "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "172.66.44.211",
-            "server_port": 443,
-            "uuid": "690f16d0-6425-462b-86e0-a70a8169c5d9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "pardazeshvpn-tg97.pages.dev",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN-Telegram:@PARDAZESHVPN",
-                "headers": {
-                    "Host": "pardazeshvpn-tg97.pages.dev"
-                },
-                "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
@@ -5859,6 +5836,27 @@
         {
             "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
             "type": "trojan",
+            "server": "35.180.147.112",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
+            "type": "trojan",
             "server": "13.36.87.53",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
@@ -6373,6 +6371,27 @@
         },
         {
             "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "52.60.51.243",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "15.157.39.237",
             "server_port": 22222,
