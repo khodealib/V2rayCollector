@@ -114,7 +114,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
@@ -314,7 +314,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
@@ -703,7 +703,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1951,7 +1951,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "dba9c88f-4e92-4476-b40d-df0362846936",
+            "uuid": "ff9bc904-e7ea-4902-abab-5b7588636476",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1974,7 +1974,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "bb002cec-0733-49a9-80b1-1e2e2393a737",
+            "uuid": "dba9c88f-4e92-4476-b40d-df0362846936",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1997,7 +1997,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "bb002cec-0733-49a9-80b1-1e2e2393a737",
+            "uuid": "dba9c88f-4e92-4476-b40d-df0362846936",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2020,7 +2020,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6633bc5f-5529-43e0-925e-662b1cc28d4d",
+            "uuid": "bb002cec-0733-49a9-80b1-1e2e2393a737",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2043,7 +2043,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6633bc5f-5529-43e0-925e-662b1cc28d4d",
+            "uuid": "bb002cec-0733-49a9-80b1-1e2e2393a737",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2066,7 +2066,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "439caf41-1dc0-4d37-97d8-59d7dfda0629",
+            "uuid": "6633bc5f-5529-43e0-925e-662b1cc28d4d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2089,7 +2089,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "439caf41-1dc0-4d37-97d8-59d7dfda0629",
+            "uuid": "6633bc5f-5529-43e0-925e-662b1cc28d4d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
