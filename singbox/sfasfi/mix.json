@@ -138,6 +138,7 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
@@ -193,7 +194,6 @@
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣5️⃣",
@@ -362,6 +362,7 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
@@ -417,7 +418,6 @@
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣5️⃣",
@@ -1056,6 +1056,32 @@
         {
             "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
+            "server": "104.19.58.175",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "ip3.6929198.xyz"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vmess",
             "server": "172.67.204.19",
             "server_port": 443,
             "uuid": "5f726fe3-d82e-4da5-a711-8af0cbb2b682",
@@ -1183,7 +1209,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-78",
+            "uuid": "Parsashonam-77",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1215,7 +1241,7 @@
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "Parsashonam-77",
+            "uuid": "Parsashonam-76",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2546,43 +2572,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 443,
-            "uuid": "Parsashonam-76",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Parsashonam\/ws?ed=2560",
-                "headers": {
-                    "Host": "Parsashonam0.com"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
-            "uuid": "b6f377ab-6b43-48e6-8236-42dbf838830c",
+            "uuid": "b1cc4839-b965-43b2-b0ec-57954749324a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2605,7 +2599,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "8846fd31-8f36-4def-8991-af3e6db583f5",
+            "uuid": "721ef0f3-2273-4bc3-ad27-e2135f39ccd5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4147,7 +4141,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4168,7 +4162,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4178,14 +4172,23 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
+            "server_port": 443,
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             },
             "transport": {
                 "type": "ws",
@@ -4201,8 +4204,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
+            "server_port": 80,
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4210,20 +4213,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4234,7 +4228,7 @@
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4278,7 +4272,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitT.CoM"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4288,31 +4282,8 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.TzZLiMitT.CoM"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
             "server_port": 443,
-            "uuid": "77a55f57-b0bb-403f-a3f3-e233b9ea0a5f",
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4333,7 +4304,39 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.TzZLiMitT.CoM"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "d2b95aa8-638f-4b0e-b94e-17178cdd4d21",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitT.CoM"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -5524,7 +5527,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-79",
+            "uuid": "Parsashonam-78",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5538,7 +5541,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-78",
+            "uuid": "Parsashonam-77",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5552,7 +5555,7 @@
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-77",
+            "uuid": "Parsashonam-76",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
